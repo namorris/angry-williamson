@@ -16,6 +16,9 @@
     "loader-utils": "3.2.1",
     "typescript": "5.7.2"
   },
+  "overrides": {
+  "ajv": "^6.12.6"
+},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
